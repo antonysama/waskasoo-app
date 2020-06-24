@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run waskasoo_app.py
+web: sh setup.sh && streamlit run waskasoo-app.py
